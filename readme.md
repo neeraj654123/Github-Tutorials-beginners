@@ -1,6 +1,6 @@
 # The best github repo right here
-this is readme
-the best ways are:
+This is readme
+The best ways are:
 -eat
 -sleep
 -code
